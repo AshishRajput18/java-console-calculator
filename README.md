@@ -21,3 +21,5 @@ A basic calculator built using Java that performs:
 ```bash
 javac Calculator.java
 java Calculator
+
+![image](https://github.com/user-attachments/assets/c63ed9f4-156c-424a-b662-f168fd731617)
